@@ -1,0 +1,25 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Assignment #11 - MySQL. For this program we used MySQL to keep a database of products for Bamazon. We used node.js as the framework.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrowden/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkrowden/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jkrowden/Bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.0",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
