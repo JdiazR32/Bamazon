@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkrowden/Bamazon.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jkrowden/Bamazon/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jkrowden/Bamazon#readme",
+  "homepage": "",
   "dependencies": {
     "chalk": "^2.4.0",
     "inquirer": "^5.2.0",
